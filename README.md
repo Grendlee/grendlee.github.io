@@ -7,7 +7,6 @@
 		<p>
 			Well awiodjaiwdjaoiwdjaoiwdjaoiwdjawodi:
 		</p>
-		
 		<dl>
 			<dt>Hello</dt>
 			<dd>Road signs common in the US</dd>
@@ -40,7 +39,6 @@
 		<p>
 			I definitely won't be seeing any cars.
 		</p>
-
 		<h2>June 2, 2012</h2>
 		<img src="images/segway1.jpg">
 		<p>
